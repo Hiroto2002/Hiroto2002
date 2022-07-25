@@ -1,4 +1,4 @@
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiroto2002&theme=merko)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hiroto2002&theme=vue)
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiroto2002&show_icons=true&theme=merko)
  
